@@ -76,7 +76,7 @@ blob_fixups: blob_fixups_user_type = {
             '1f 7d 00 a9 1f 09 00 f9 c0 03 5f d6 42 00 7d b2 28 00 80 52 ec ff ff 17',)
         .add_needed('libui_shim.so'),
     'vendor/lib64/libskeymint_cli.so': blob_fixup()
-        .replace_needed('libcrypto.so', 'libcrypto-v33.so'),
+        .replace_needed('libcrypto.so', 'libcrypto-v34.so'),
     'vendor/lib64/libsec-ril-impl.so': blob_fixup()
         # Always emit uiccApplicationsEnablementChanged
         .sig_replace('1f 00 08 6b ab 01 00 54', '1f 00 08 6b 1f 20 03 d5')
