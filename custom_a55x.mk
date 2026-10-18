@@ -8,7 +8,7 @@ $(call inherit-product, device/samsung/a55x/device.mk)
 
 # Device identifier, this must come after all inclusions
 PRODUCT_DEVICE := a55x
-PRODUCT_NAME := lineage_a55x
+PRODUCT_NAME := custom_a55x
 PRODUCT_MODEL := SM-A556B
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
