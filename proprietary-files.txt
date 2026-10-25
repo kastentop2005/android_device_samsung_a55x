@@ -190,7 +190,7 @@ vendor/apex/com.samsung.android.gnss.lsi.rose.signed/lib64/vendor.samsung.hardwa
 vendor/etc/init/init.gps.rc
 
 # GNSS - A556BXXSABYI1
-vendor/apex/com.samsung.android.gnss.lsi.rose.signed/bin/gpsd_K44:vendor/bin/hw/gpsd_K44|2865193f8e27a80066fe92c954f27ffee1aa50cf
+vendor/apex/com.samsung.android.gnss.lsi.rose.signed/bin/gpsd_K44:vendor/bin/hw/gpsd_K44|001e234776d92beb3a8dd5c6b7522f5b47660cb4|b7aaba18a76ab90e5f7e5cc4d543f0b0503e82c9
 vendor/apex/com.samsung.android.gnss.lsi.rose.signed/bin/vendor.samsung.hardware.gnss.lsi.rose-service:vendor/bin/hw/vendor.samsung.hardware.gnss-service|1c16eb8af8452b4c2628eee34c72c80233f97eba
 
 # GNSS - Configuration
